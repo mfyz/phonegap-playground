@@ -1,0 +1,114 @@
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;     /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;  /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;       /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-color:#E4E4E4;
+    font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+	width:100%;
+	height:100%;
+	margin: 0;
+	padding: 0;
+}
+
+.page {
+	.navbar {
+		position: relative;
+		height: 70px;
+		line-height: 70px;
+		background-color: #197CF1;
+		color: #ffffff;
+		text-align: center;
+
+		h1, h2, h3 {
+			padding: 0;
+			margin: 0;
+			color: #ffffff;
+		}
+
+		a {
+			text-decoration: none;
+			color: #ffffff;
+			display: inline-block;
+			padding: 0 20px;
+			font-weight: 300;
+
+			&.back {
+				-webkit-transform: rotate(180deg);
+				font-size: 30px;
+			}
+		}
+
+		.left {
+			position: absolute;
+			left: 0;
+			top: 0;
+		}
+
+		.right {
+			position: absolute;
+			right: 0;
+			top: 0;
+		}
+	}
+
+	.content {
+		padding: 20px;
+	}
+}
+
+.platform_ios {
+	.page {
+		.navbar {
+			padding-top: 20px;
+
+			.left { top: 20px; }
+			.right { top: 20px; }
+		}
+	}
+}
+
+.button {
+	display: inline-block;
+	padding: 5px 10px;
+	background-color: #efefef;
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	text-decoration: none;
+	color: #555555;
+}
+
+.options {
+	padding: 0;
+	margin: 0;
+
+	li {
+		margin: 0;
+		padding: 5px 0;
+		list-style: none;
+		text-align: left;
+	}
+}
+
+.geolocation {
+	.map {
+		position: fixed;
+		display: block;
+		top: 70px;
+		bottom: 0;
+		left: 0;
+		right: 0;
+	}
+}
+
+.platform_ios {
+	.geolocation {
+		.map {
+			top: 90px;
+		}
+	}
+}

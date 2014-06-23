@@ -1,0 +1,798 @@
+objc[31716]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 00:19:43.852 Playground[31716:70b] Cannot find executable for CFBundle 0xa4411b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 00:19:43.863 Playground[31716:70b] Cannot find executable for CFBundle 0xb03c040 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 00:19:43.907 Playground[31716:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 00:19:43.915 Playground[31716:70b] Unlimited access to network resources
+2014-06-22 00:19:43.917 Playground[31716:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 00:19:44.006 Playground[31716:70b] Resetting plugins due to page load.
+2014-06-22 00:19:44.070 Playground[31716:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/playground
+objc[32378]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 00:36:09.847 Playground[32378:70b] Cannot find executable for CFBundle 0xa68c6f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 00:36:09.851 Playground[32378:70b] Cannot find executable for CFBundle 0xa6a7aa0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 00:36:09.874 Playground[32378:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 00:36:09.879 Playground[32378:70b] Unlimited access to network resources
+2014-06-22 00:36:09.882 Playground[32378:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 00:36:09.940 Playground[32378:70b] Resetting plugins due to page load.
+2014-06-22 00:36:09.995 Playground[32378:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/playground
+2014-06-22 00:36:19.096 Playground[32378:70b] THREAD WARNING: ['Notification'] took '15.272705' ms. Plugin should use a background thread.
+2014-06-22 00:36:23.359 Playground[32378:70b] THREAD WARNING: ['Notification'] took '85.013916' ms. Plugin should use a background thread.
+2014-06-22 00:36:24.297 Playground[32378:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-06-22 00:36:24.297 Playground[32378:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-06-22 00:36:28.797 Playground[32378:70b] THREAD WARNING: ['Camera'] took '88.291260' ms. Plugin should use a background thread.
+objc[32973]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 01:09:35.970 Playground[32973:70b] Cannot find executable for CFBundle 0xbc46bb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 01:09:35.974 Playground[32973:70b] Cannot find executable for CFBundle 0xa37c3b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 01:09:36.028 Playground[32973:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 01:09:36.033 Playground[32973:70b] Unlimited access to network resources
+2014-06-22 01:09:36.037 Playground[32973:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 01:09:36.197 Playground[32973:70b] Resetting plugins due to page load.
+2014-06-22 01:09:36.256 Playground[32973:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[33125]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 01:11:04.418 Playground[33125:70b] Cannot find executable for CFBundle 0xa33f840 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 01:11:04.422 Playground[33125:70b] Cannot find executable for CFBundle 0xa279b40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 01:11:04.445 Playground[33125:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 01:11:04.452 Playground[33125:70b] Unlimited access to network resources
+2014-06-22 01:11:04.454 Playground[33125:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 01:11:04.507 Playground[33125:70b] Resetting plugins due to page load.
+2014-06-22 01:11:04.560 Playground[33125:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[33218]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 01:11:13.153 Playground[33218:70b] Cannot find executable for CFBundle 0x1086e6b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 01:11:13.158 Playground[33218:70b] Cannot find executable for CFBundle 0xa5b0660 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 01:11:13.204 Playground[33218:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 01:11:13.210 Playground[33218:70b] Unlimited access to network resources
+2014-06-22 01:11:13.212 Playground[33218:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 01:11:13.341 Playground[33218:70b] Resetting plugins due to page load.
+2014-06-22 01:11:13.396 Playground[33218:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[33313]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 01:11:46.766 Playground[33313:70b] Cannot find executable for CFBundle 0xc0472e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 01:11:46.771 Playground[33313:70b] Cannot find executable for CFBundle 0xc245570 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 01:11:46.790 Playground[33313:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 01:11:46.795 Playground[33313:70b] Unlimited access to network resources
+2014-06-22 01:11:46.798 Playground[33313:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 01:11:46.849 Playground[33313:70b] Resetting plugins due to page load.
+2014-06-22 01:11:46.903 Playground[33313:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[33439]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 01:16:11.039 Playground[33439:70b] Cannot find executable for CFBundle 0xa3b6c40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 01:16:11.050 Playground[33439:70b] Cannot find executable for CFBundle 0xa2795c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 01:16:11.076 Playground[33439:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 01:16:11.083 Playground[33439:70b] Unlimited access to network resources
+2014-06-22 01:16:11.085 Playground[33439:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 01:16:11.136 Playground[33439:70b] Resetting plugins due to page load.
+2014-06-22 01:16:11.198 Playground[33439:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+2014-06-22 01:16:50.374 Playground[33439:70b] THREAD WARNING: ['Notification'] took '22.760986' ms. Plugin should use a background thread.
+objc[33619]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 01:21:02.084 Playground[33619:70b] Cannot find executable for CFBundle 0xc76c680 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 01:21:02.088 Playground[33619:70b] Cannot find executable for CFBundle 0xa364590 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 01:21:02.114 Playground[33619:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 01:21:02.122 Playground[33619:70b] Unlimited access to network resources
+2014-06-22 01:21:02.125 Playground[33619:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 01:21:02.184 Playground[33619:70b] Resetting plugins due to page load.
+2014-06-22 01:21:02.247 Playground[33619:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[33883]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 13:33:17.428 Playground[33883:70b] Cannot find executable for CFBundle 0xbd895d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 13:33:17.436 Playground[33883:70b] Cannot find executable for CFBundle 0xa593b30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 13:33:17.463 Playground[33883:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 13:33:17.469 Playground[33883:70b] Unlimited access to network resources
+2014-06-22 13:33:17.471 Playground[33883:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 13:33:17.524 Playground[33883:70b] Resetting plugins due to page load.
+2014-06-22 13:33:17.585 Playground[33883:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[34048]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 13:33:46.567 Playground[34048:70b] Cannot find executable for CFBundle 0xa55e1f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 13:33:46.572 Playground[34048:70b] Cannot find executable for CFBundle 0xa646d30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 13:33:46.616 Playground[34048:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 13:33:46.623 Playground[34048:70b] Unlimited access to network resources
+2014-06-22 13:33:46.625 Playground[34048:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 13:33:46.699 Playground[34048:70b] Resetting plugins due to page load.
+2014-06-22 13:33:46.755 Playground[34048:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+2014-06-22 13:33:51.055 Playground[34048:70b] Camera.getPicture: source type 1 not available.
+2014-06-22 13:33:53.775 Playground[34048:70b] THREAD WARNING: ['Camera'] took '2719.965820' ms. Plugin should use a background thread.
+2014-06-22 13:33:54.313 Playground[34048:70b] THREAD WARNING: ['Camera'] took '54.332520' ms. Plugin should use a background thread.
+2014-06-22 13:34:05.781 Playground[34048:70b] THREAD WARNING: ['Notification'] took '24.508789' ms. Plugin should use a background thread.
+2014-06-22 13:34:06.901 Playground[34048:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-06-22 13:34:06.901 Playground[34048:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+objc[34174]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 13:39:48.809 Playground[34174:70b] Cannot find executable for CFBundle 0xa21c9b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 13:39:48.813 Playground[34174:70b] Cannot find executable for CFBundle 0xa41f6f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 13:39:48.871 Playground[34174:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 13:39:48.877 Playground[34174:70b] Unlimited access to network resources
+2014-06-22 13:39:48.880 Playground[34174:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 13:39:49.022 Playground[34174:70b] Resetting plugins due to page load.
+2014-06-22 13:39:49.102 Playground[34174:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[34269]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 13:40:49.539 Playground[34269:70b] Cannot find executable for CFBundle 0xa47dd40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 13:40:49.545 Playground[34269:70b] Cannot find executable for CFBundle 0xa768c80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 13:40:49.572 Playground[34269:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 13:40:49.577 Playground[34269:70b] Unlimited access to network resources
+2014-06-22 13:40:49.580 Playground[34269:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 13:40:49.641 Playground[34269:70b] Resetting plugins due to page load.
+2014-06-22 13:40:49.704 Playground[34269:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[34370]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 13:42:27.600 Playground[34370:70b] Cannot find executable for CFBundle 0xa5b7010 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 13:42:27.604 Playground[34370:70b] Cannot find executable for CFBundle 0xa9906e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 13:42:27.651 Playground[34370:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 13:42:27.657 Playground[34370:70b] Unlimited access to network resources
+2014-06-22 13:42:27.659 Playground[34370:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 13:42:27.821 Playground[34370:70b] Resetting plugins due to page load.
+2014-06-22 13:42:27.892 Playground[34370:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[34478]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 13:44:43.451 Playground[34478:70b] Cannot find executable for CFBundle 0xa6499f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 13:44:43.456 Playground[34478:70b] Cannot find executable for CFBundle 0xa26de30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 13:44:43.506 Playground[34478:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 13:44:43.511 Playground[34478:70b] Unlimited access to network resources
+2014-06-22 13:44:43.513 Playground[34478:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 13:44:43.667 Playground[34478:70b] Resetting plugins due to page load.
+2014-06-22 13:44:43.741 Playground[34478:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[34596]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 13:50:05.512 Playground[34596:70b] Cannot find executable for CFBundle 0xa31ba70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 13:50:05.515 Playground[34596:70b] Cannot find executable for CFBundle 0xa3565c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 13:50:05.538 Playground[34596:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 13:50:05.547 Playground[34596:70b] Unlimited access to network resources
+2014-06-22 13:50:05.549 Playground[34596:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 13:50:05.605 Playground[34596:70b] Resetting plugins due to page load.
+2014-06-22 13:50:05.643 Playground[34596:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[34691]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 13:50:31.710 Playground[34691:70b] Cannot find executable for CFBundle 0xe730440 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 13:50:31.715 Playground[34691:70b] Cannot find executable for CFBundle 0xba30e60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 13:50:31.758 Playground[34691:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 13:50:31.764 Playground[34691:70b] Unlimited access to network resources
+2014-06-22 13:50:31.765 Playground[34691:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 13:50:31.858 Playground[34691:70b] Resetting plugins due to page load.
+2014-06-22 13:50:31.893 Playground[34691:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[34869]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 14:05:51.723 Playground[34869:70b] Cannot find executable for CFBundle 0xa75d470 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 14:05:51.729 Playground[34869:70b] Cannot find executable for CFBundle 0xc27e320 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 14:05:51.759 Playground[34869:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 14:05:51.765 Playground[34869:70b] Unlimited access to network resources
+2014-06-22 14:05:51.768 Playground[34869:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 14:05:51.840 Playground[34869:70b] Resetting plugins due to page load.
+2014-06-22 14:05:51.878 Playground[34869:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[35340]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 15:43:52.678 Playground[35340:70b] Cannot find executable for CFBundle 0xa3366f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 15:43:52.687 Playground[35340:70b] Cannot find executable for CFBundle 0xa247060 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 15:43:52.723 Playground[35340:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 15:43:52.729 Playground[35340:70b] Unlimited access to network resources
+2014-06-22 15:43:52.732 Playground[35340:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 15:43:52.905 Playground[35340:70b] Resetting plugins due to page load.
+2014-06-22 15:43:52.965 Playground[35340:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[35449]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 15:45:05.650 Playground[35449:70b] Cannot find executable for CFBundle 0xa374080 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 15:45:05.655 Playground[35449:70b] Cannot find executable for CFBundle 0xa274440 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 15:45:05.710 Playground[35449:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 15:45:05.716 Playground[35449:70b] Unlimited access to network resources
+2014-06-22 15:45:05.718 Playground[35449:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 15:45:05.883 Playground[35449:70b] Resetting plugins due to page load.
+2014-06-22 15:45:05.948 Playground[35449:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[35549]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 15:45:18.651 Playground[35549:70b] Cannot find executable for CFBundle 0xbb95dc0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 15:45:18.655 Playground[35549:70b] Cannot find executable for CFBundle 0xbbc5140 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 15:45:18.681 Playground[35549:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 15:45:18.687 Playground[35549:70b] Unlimited access to network resources
+2014-06-22 15:45:18.689 Playground[35549:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 15:45:18.739 Playground[35549:70b] Resetting plugins due to page load.
+2014-06-22 15:45:18.783 Playground[35549:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[35655]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 15:46:12.657 Playground[35655:70b] Cannot find executable for CFBundle 0xa3900a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 15:46:12.661 Playground[35655:70b] Cannot find executable for CFBundle 0xa87ca70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 15:46:12.709 Playground[35655:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 15:46:12.714 Playground[35655:70b] Unlimited access to network resources
+2014-06-22 15:46:12.716 Playground[35655:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 15:46:12.874 Playground[35655:70b] Resetting plugins due to page load.
+2014-06-22 15:46:12.931 Playground[35655:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[35772]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 15:48:26.024 Playground[35772:70b] Cannot find executable for CFBundle 0xa647e60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 15:48:26.028 Playground[35772:70b] Cannot find executable for CFBundle 0xa663c80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 15:48:26.052 Playground[35772:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 15:48:26.060 Playground[35772:70b] Unlimited access to network resources
+2014-06-22 15:48:26.063 Playground[35772:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 15:48:26.122 Playground[35772:70b] Resetting plugins due to page load.
+2014-06-22 15:48:26.182 Playground[35772:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[35872]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 15:48:55.012 Playground[35872:70b] Cannot find executable for CFBundle 0xb567fd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 15:48:55.016 Playground[35872:70b] Cannot find executable for CFBundle 0xb5830e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 15:48:55.060 Playground[35872:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 15:48:55.066 Playground[35872:70b] Unlimited access to network resources
+2014-06-22 15:48:55.068 Playground[35872:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 15:48:55.163 Playground[35872:70b] Resetting plugins due to page load.
+2014-06-22 15:48:56.750 Playground[35872:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[35972]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 15:49:21.909 Playground[35972:70b] Cannot find executable for CFBundle 0xa782170 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 15:49:21.913 Playground[35972:70b] Cannot find executable for CFBundle 0xa341ab0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 15:49:21.951 Playground[35972:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 15:49:21.956 Playground[35972:70b] Unlimited access to network resources
+2014-06-22 15:49:21.959 Playground[35972:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 15:49:22.092 Playground[35972:70b] Resetting plugins due to page load.
+2014-06-22 15:49:22.148 Playground[35972:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[36077]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 15:51:22.545 Playground[36077:70b] Cannot find executable for CFBundle 0xa27f570 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 15:51:22.548 Playground[36077:70b] Cannot find executable for CFBundle 0xa338b70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 15:51:22.606 Playground[36077:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 15:51:22.612 Playground[36077:70b] Unlimited access to network resources
+2014-06-22 15:51:22.614 Playground[36077:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 15:51:22.761 Playground[36077:70b] Resetting plugins due to page load.
+2014-06-22 15:51:22.806 Playground[36077:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[36229]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 15:58:50.619 Playground[36229:70b] Cannot find executable for CFBundle 0xa8e9f30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 15:58:50.625 Playground[36229:70b] Cannot find executable for CFBundle 0xa5ab490 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 15:58:50.653 Playground[36229:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 15:58:50.660 Playground[36229:70b] Unlimited access to network resources
+2014-06-22 15:58:50.662 Playground[36229:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 15:58:50.720 Playground[36229:70b] Resetting plugins due to page load.
+2014-06-22 15:58:50.781 Playground[36229:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[36332]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:00:31.476 Playground[36332:70b] Cannot find executable for CFBundle 0xa742360 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:00:31.478 Playground[36332:70b] Cannot find executable for CFBundle 0xa21d580 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:00:31.524 Playground[36332:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:00:31.529 Playground[36332:70b] Unlimited access to network resources
+2014-06-22 16:00:31.531 Playground[36332:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:00:31.637 Playground[36332:70b] Resetting plugins due to page load.
+2014-06-22 16:00:31.692 Playground[36332:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[36432]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:01:59.253 Playground[36432:70b] Cannot find executable for CFBundle 0xa96aaa0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:01:59.260 Playground[36432:70b] Cannot find executable for CFBundle 0xa84a100 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:01:59.295 Playground[36432:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:01:59.300 Playground[36432:70b] Unlimited access to network resources
+2014-06-22 16:01:59.303 Playground[36432:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:01:59.364 Playground[36432:70b] Resetting plugins due to page load.
+2014-06-22 16:01:59.423 Playground[36432:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[36529]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:02:03.598 Playground[36529:70b] Cannot find executable for CFBundle 0xa592950 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:02:03.602 Playground[36529:70b] Cannot find executable for CFBundle 0xa5b23e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:02:03.644 Playground[36529:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:02:03.650 Playground[36529:70b] Unlimited access to network resources
+2014-06-22 16:02:03.652 Playground[36529:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:02:03.750 Playground[36529:70b] Resetting plugins due to page load.
+2014-06-22 16:02:03.808 Playground[36529:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[36635]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:03:30.127 Playground[36635:70b] Cannot find executable for CFBundle 0xa678a70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:03:30.132 Playground[36635:70b] Cannot find executable for CFBundle 0xa54eea0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:03:30.189 Playground[36635:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:03:30.195 Playground[36635:70b] Unlimited access to network resources
+2014-06-22 16:03:30.197 Playground[36635:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:03:30.354 Playground[36635:70b] Resetting plugins due to page load.
+2014-06-22 16:03:30.418 Playground[36635:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[36734]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:03:52.834 Playground[36734:70b] Cannot find executable for CFBundle 0xa58ff90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:03:52.838 Playground[36734:70b] Cannot find executable for CFBundle 0xca60690 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:03:52.883 Playground[36734:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:03:52.889 Playground[36734:70b] Unlimited access to network resources
+2014-06-22 16:03:52.891 Playground[36734:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:03:53.022 Playground[36734:70b] Resetting plugins due to page load.
+2014-06-22 16:03:53.076 Playground[36734:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[36832]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:04:07.033 Playground[36832:70b] Cannot find executable for CFBundle 0xb9a4050 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:04:07.039 Playground[36832:70b] Cannot find executable for CFBundle 0xb9c2b90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:04:07.062 Playground[36832:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:04:07.068 Playground[36832:70b] Unlimited access to network resources
+2014-06-22 16:04:07.070 Playground[36832:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:04:07.122 Playground[36832:70b] Resetting plugins due to page load.
+2014-06-22 16:04:07.176 Playground[36832:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[36935]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:04:46.638 Playground[36935:70b] Cannot find executable for CFBundle 0xb363af0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:04:46.643 Playground[36935:70b] Cannot find executable for CFBundle 0xb6abc10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:04:46.664 Playground[36935:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:04:46.670 Playground[36935:70b] Unlimited access to network resources
+2014-06-22 16:04:46.672 Playground[36935:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:04:46.723 Playground[36935:70b] Resetting plugins due to page load.
+2014-06-22 16:04:46.781 Playground[36935:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37033]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:05:04.145 Playground[37033:70b] Cannot find executable for CFBundle 0xb41ce80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:05:04.148 Playground[37033:70b] Cannot find executable for CFBundle 0xb6237c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:05:04.171 Playground[37033:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:05:04.177 Playground[37033:70b] Unlimited access to network resources
+2014-06-22 16:05:04.179 Playground[37033:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:05:04.227 Playground[37033:70b] Resetting plugins due to page load.
+2014-06-22 16:05:04.282 Playground[37033:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37131]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:05:29.187 Playground[37131:70b] Cannot find executable for CFBundle 0xbd3ff60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:05:29.193 Playground[37131:70b] Cannot find executable for CFBundle 0xa248f50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:05:29.236 Playground[37131:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:05:29.242 Playground[37131:70b] Unlimited access to network resources
+2014-06-22 16:05:29.244 Playground[37131:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:05:29.316 Playground[37131:70b] Resetting plugins due to page load.
+2014-06-22 16:05:29.370 Playground[37131:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37244]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:07:20.286 Playground[37244:70b] Cannot find executable for CFBundle 0xc16eb70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:07:20.290 Playground[37244:70b] Cannot find executable for CFBundle 0xa221240 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:07:20.312 Playground[37244:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:07:20.318 Playground[37244:70b] Unlimited access to network resources
+2014-06-22 16:07:20.320 Playground[37244:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:07:20.372 Playground[37244:70b] Resetting plugins due to page load.
+2014-06-22 16:07:20.425 Playground[37244:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37343]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:07:34.650 Playground[37343:70b] Cannot find executable for CFBundle 0xb29c260 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:07:34.654 Playground[37343:70b] Cannot find executable for CFBundle 0xb2cc9f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:07:34.676 Playground[37343:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:07:34.683 Playground[37343:70b] Unlimited access to network resources
+2014-06-22 16:07:34.685 Playground[37343:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:07:34.736 Playground[37343:70b] Resetting plugins due to page load.
+2014-06-22 16:07:34.794 Playground[37343:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37443]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:08:42.994 Playground[37443:70b] Cannot find executable for CFBundle 0xa548990 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:08:42.999 Playground[37443:70b] Cannot find executable for CFBundle 0xb237a30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:08:43.041 Playground[37443:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:08:43.046 Playground[37443:70b] Unlimited access to network resources
+2014-06-22 16:08:43.048 Playground[37443:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:08:43.120 Playground[37443:70b] Resetting plugins due to page load.
+2014-06-22 16:08:43.177 Playground[37443:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37542]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:09:25.372 Playground[37542:70b] Cannot find executable for CFBundle 0xc354f90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:09:25.379 Playground[37542:70b] Cannot find executable for CFBundle 0xc55d5c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:09:25.424 Playground[37542:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:09:25.430 Playground[37542:70b] Unlimited access to network resources
+2014-06-22 16:09:25.432 Playground[37542:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:09:25.504 Playground[37542:70b] Resetting plugins due to page load.
+2014-06-22 16:09:25.560 Playground[37542:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37640]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:09:50.633 Playground[37640:70b] Cannot find executable for CFBundle 0xfc7c200 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:09:50.637 Playground[37640:70b] Cannot find executable for CFBundle 0xb9c53d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:09:50.661 Playground[37640:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:09:50.667 Playground[37640:70b] Unlimited access to network resources
+2014-06-22 16:09:50.668 Playground[37640:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:09:50.720 Playground[37640:70b] Resetting plugins due to page load.
+2014-06-22 16:09:50.774 Playground[37640:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37740]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:10:12.648 Playground[37740:70b] Cannot find executable for CFBundle 0xa37fdc0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:10:12.653 Playground[37740:70b] Cannot find executable for CFBundle 0xa455800 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:10:12.698 Playground[37740:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:10:12.704 Playground[37740:70b] Unlimited access to network resources
+2014-06-22 16:10:12.706 Playground[37740:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:10:12.775 Playground[37740:70b] Resetting plugins due to page load.
+2014-06-22 16:10:12.831 Playground[37740:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37838]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:10:33.128 Playground[37838:70b] Cannot find executable for CFBundle 0xa370cb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:10:33.133 Playground[37838:70b] Cannot find executable for CFBundle 0xb451170 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:10:33.154 Playground[37838:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:10:33.160 Playground[37838:70b] Unlimited access to network resources
+2014-06-22 16:10:33.162 Playground[37838:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:10:33.214 Playground[37838:70b] Resetting plugins due to page load.
+2014-06-22 16:10:33.265 Playground[37838:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[37944]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:11:29.012 Playground[37944:70b] Cannot find executable for CFBundle 0xa28c360 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:11:29.017 Playground[37944:70b] Cannot find executable for CFBundle 0xa664870 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:11:29.067 Playground[37944:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:11:29.072 Playground[37944:70b] Unlimited access to network resources
+2014-06-22 16:11:29.076 Playground[37944:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:11:29.166 Playground[37944:70b] Resetting plugins due to page load.
+2014-06-22 16:11:29.220 Playground[37944:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[38043]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:11:53.692 Playground[38043:70b] Cannot find executable for CFBundle 0xa46c260 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:11:53.697 Playground[38043:70b] Cannot find executable for CFBundle 0xa76d6e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:11:53.739 Playground[38043:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:11:53.744 Playground[38043:70b] Unlimited access to network resources
+2014-06-22 16:11:53.746 Playground[38043:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:11:53.819 Playground[38043:70b] Resetting plugins due to page load.
+2014-06-22 16:11:53.873 Playground[38043:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[38141]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:12:14.486 Playground[38141:70b] Cannot find executable for CFBundle 0x1084cd70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:12:14.491 Playground[38141:70b] Cannot find executable for CFBundle 0xa653c60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:12:14.514 Playground[38141:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:12:14.519 Playground[38141:70b] Unlimited access to network resources
+2014-06-22 16:12:14.521 Playground[38141:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:12:14.575 Playground[38141:70b] Resetting plugins due to page load.
+2014-06-22 16:12:14.627 Playground[38141:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[38248]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:13:06.080 Playground[38248:70b] Cannot find executable for CFBundle 0xa652e00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:13:06.086 Playground[38248:70b] Cannot find executable for CFBundle 0xa54e0f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:13:06.131 Playground[38248:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:13:06.137 Playground[38248:70b] Unlimited access to network resources
+2014-06-22 16:13:06.138 Playground[38248:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:13:06.239 Playground[38248:70b] Resetting plugins due to page load.
+2014-06-22 16:13:06.295 Playground[38248:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html#/
+objc[38431]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:25:17.539 Playground[38431:70b] Cannot find executable for CFBundle 0xa4ac460 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:25:17.543 Playground[38431:70b] Cannot find executable for CFBundle 0xa9a3410 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:25:17.588 Playground[38431:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:25:17.593 Playground[38431:70b] Unlimited access to network resources
+2014-06-22 16:25:17.596 Playground[38431:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:25:17.742 Playground[38431:70b] Resetting plugins due to page load.
+2014-06-22 16:25:17.785 Playground[38431:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[38534]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 16:26:50.054 Playground[38534:70b] Cannot find executable for CFBundle 0xa588e40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 16:26:50.058 Playground[38534:70b] Cannot find executable for CFBundle 0xa492c90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 16:26:50.100 Playground[38534:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 16:26:50.105 Playground[38534:70b] Unlimited access to network resources
+2014-06-22 16:26:50.107 Playground[38534:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 16:26:50.193 Playground[38534:70b] Resetting plugins due to page load.
+2014-06-22 16:26:50.234 Playground[38534:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[39073]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 21:13:58.350 Playground[39073:70b] Cannot find executable for CFBundle 0xa35f9a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 21:13:58.357 Playground[39073:70b] Cannot find executable for CFBundle 0xa2758c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 21:13:58.412 Playground[39073:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 21:13:58.420 Playground[39073:70b] Unlimited access to network resources
+2014-06-22 21:13:58.424 Playground[39073:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 21:13:58.602 Playground[39073:70b] Resetting plugins due to page load.
+2014-06-22 21:13:58.653 Playground[39073:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[39245]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 21:16:21.924 Playground[39245:70b] Cannot find executable for CFBundle 0xa64c980 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 21:16:21.953 Playground[39245:70b] Cannot find executable for CFBundle 0xa46e1a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 21:16:22.011 Playground[39245:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 21:16:22.019 Playground[39245:70b] Unlimited access to network resources
+2014-06-22 21:16:22.022 Playground[39245:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 21:16:22.219 Playground[39245:70b] Resetting plugins due to page load.
+2014-06-22 21:16:22.279 Playground[39245:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[39363]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 21:18:08.835 Playground[39363:70b] Cannot find executable for CFBundle 0xc746fc0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 21:18:08.842 Playground[39363:70b] Cannot find executable for CFBundle 0xa553c90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 21:18:08.922 Playground[39363:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 21:18:08.931 Playground[39363:70b] Unlimited access to network resources
+2014-06-22 21:18:08.934 Playground[39363:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 21:18:08.976 Playground[39363:70b] [CDVTimer][statusbar] 22.279978ms
+2014-06-22 21:18:08.976 Playground[39363:70b] [CDVTimer][TotalPluginStartup] 22.678971ms
+2014-06-22 21:18:09.229 Playground[39363:70b] Resetting plugins due to page load.
+2014-06-22 21:18:09.286 Playground[39363:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[39521]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 21:21:33.865 Playground[39521:70b] Cannot find executable for CFBundle 0xa45cfa0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 21:21:33.880 Playground[39521:70b] Cannot find executable for CFBundle 0xa5557a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 21:21:33.942 Playground[39521:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 21:21:33.948 Playground[39521:70b] Unlimited access to network resources
+2014-06-22 21:21:33.952 Playground[39521:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 21:21:33.992 Playground[39521:70b] [CDVTimer][statusbar] 11.191964ms
+2014-06-22 21:21:33.993 Playground[39521:70b] [CDVTimer][TotalPluginStartup] 11.775970ms
+2014-06-22 21:21:34.224 Playground[39521:70b] Resetting plugins due to page load.
+2014-06-22 21:21:34.282 Playground[39521:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+2014-06-22 21:21:43.054 Playground[39521:70b] Camera.getPicture: source type 1 not available.
+2014-06-22 21:21:44.733 Playground[39521:70b] THREAD WARNING: ['Camera'] took '1678.155029' ms. Plugin should use a background thread.
+2014-06-22 21:21:45.427 Playground[39521:70b] THREAD WARNING: ['Camera'] took '103.500244' ms. Plugin should use a background thread.
+objc[39942]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 22:16:00.054 Playground[39942:70b] Cannot find executable for CFBundle 0xa31b4a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 22:16:00.058 Playground[39942:70b] Cannot find executable for CFBundle 0xa8347a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 22:16:00.089 Playground[39942:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 22:16:00.094 Playground[39942:70b] Unlimited access to network resources
+2014-06-22 22:16:00.096 Playground[39942:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 22:16:00.119 Playground[39942:70b] [CDVTimer][statusbar] 7.027984ms
+2014-06-22 22:16:00.120 Playground[39942:70b] [CDVTimer][TotalPluginStartup] 7.549047ms
+2014-06-22 22:16:00.183 Playground[39942:70b] Resetting plugins due to page load.
+2014-06-22 22:16:03.923 Playground[39942:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[40052]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 22:16:46.727 Playground[40052:70b] Cannot find executable for CFBundle 0xa97ac60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 22:16:46.737 Playground[40052:70b] Cannot find executable for CFBundle 0xaab9370 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 22:16:46.793 Playground[40052:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 22:16:46.801 Playground[40052:70b] Unlimited access to network resources
+2014-06-22 22:16:46.804 Playground[40052:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 22:16:46.864 Playground[40052:70b] [CDVTimer][statusbar] 19.903004ms
+2014-06-22 22:16:46.865 Playground[40052:70b] [CDVTimer][TotalPluginStartup] 20.502985ms
+2014-06-22 22:16:47.086 Playground[40052:70b] Resetting plugins due to page load.
+2014-06-22 22:16:47.291 Playground[40052:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+objc[40187]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-06-22 22:23:16.588 Playground[40187:70b] Cannot find executable for CFBundle 0xaa90610 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-06-22 22:23:16.595 Playground[40187:70b] Cannot find executable for CFBundle 0xa47c100 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-06-22 22:23:16.620 Playground[40187:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-22 22:23:16.626 Playground[40187:70b] Unlimited access to network resources
+2014-06-22 22:23:16.628 Playground[40187:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-22 22:23:16.646 Playground[40187:70b] [CDVTimer][statusbar] 5.062044ms
+2014-06-22 22:23:16.646 Playground[40187:70b] [CDVTimer][TotalPluginStartup] 5.403996ms
+2014-06-22 22:23:16.704 Playground[40187:70b] Resetting plugins due to page load.
+2014-06-22 22:23:16.969 Playground[40187:70b] Finished load of: file:///Users/fatih/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/96F87D05-77D0-4F77-B4C6-68DE5E00C963/Playground.app/www/index.html
+2014-06-22 22:23:21.751 Playground[40187:70b] Camera.getPicture: source type 1 not available.
+2014-06-22 22:23:23.229 Playground[40187:70b] THREAD WARNING: ['Camera'] took '1477.823975' ms. Plugin should use a background thread.
+2014-06-22 22:23:23.494 Playground[40187:70b] THREAD WARNING: ['Camera'] took '79.941162' ms. Plugin should use a background thread.
